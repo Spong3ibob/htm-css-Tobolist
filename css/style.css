@@ -47,3 +47,39 @@ main{
 hr{
     color: gray;
 }
+.cerchio{
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius:50%;
+    text-align: center;
+}
+.green-check{
+    color: green;
+    border-color: green;
+}
+.red-cross{
+    color: red;
+    border-color: red;
+}
+.new-task{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+p{
+    display: inline-block;
+}
+.editorial{
+    margin-top: 10px;
+    margin-left: 0px;
+}
+.bottone3{
+    background-color: #45ABEA;
+    color: white;
+    border: none;
+    padding: 7px;
+    border-radius: 20px;
+    margin-bottom: 15px;
+}
