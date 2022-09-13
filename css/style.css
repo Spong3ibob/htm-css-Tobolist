@@ -1,3 +1,4 @@
+/* reset */
 *{
     box-sizing: border-box;
     margin: 0px;
@@ -7,6 +8,7 @@ body{
     background-color: #F6F8F9;
     font-family: 'Roboto', sans-serif;
 }
+/* header */
 header{
     background-color: white;
     padding: 10px 20px;
@@ -17,4 +19,31 @@ h1{
 }
 .logo{
     vertical-align: middle;
+}
+/* main */
+main{
+    background-color: white;
+    max-width: 800px;
+    margin: auto;
+    margin-top: 40px;
+}
+.bottone1{
+    background-color: #45ABEA;
+    color: white;
+    border: none;
+    padding: 7px;
+    border-radius: 5px;
+    margin-left: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.bottone2{
+    background-color: white;
+    color: gray;
+    border-color: gray;
+    padding: 5px;
+    border-radius: 5px;
+}
+hr{
+    color: gray;
 }
