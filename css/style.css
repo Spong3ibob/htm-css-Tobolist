@@ -64,7 +64,7 @@ hr{
     color: red;
     border-color: red;
 }
-.new-task{
+.container{
     margin-top: 20px;
     margin-left: 30px;
 }
@@ -75,11 +75,36 @@ p{
     margin-top: 10px;
     margin-left: 0px;
 }
+.editorial1{
+    margin-top: 10px;
+    margin-left: 0px;
+}
 .bottone3{
     background-color: #45ABEA;
     color: white;
     border: none;
     padding: 7px;
     border-radius: 20px;
-    margin-bottom: 15px;
+    margin-top: 15px;
+}
+.bottone4{
+    background-color: #9C72E4;
+    color: white;
+    border: none;
+    padding: 7px;
+    border-radius: 20px; 
+}
+.bottone5{
+    background-color: #64C0A9;
+    color: white;
+    border: none;
+    padding: 7px;
+    border-radius: 20px; 
+}
+.bottone6{
+    background-color: #F29E33;
+    color: white;
+    border: none;
+    padding: 7px;
+    border-radius: 20px; 
 }
