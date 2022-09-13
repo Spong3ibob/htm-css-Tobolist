@@ -108,3 +108,25 @@ p{
     padding: 7px;
     border-radius: 20px; 
 }
+.bottone7{
+    background-color: #D863A1;
+    color: white;
+    border: none;
+    padding: 7px;
+    border-radius: 20px; 
+}
+.bottone8{
+    background-color: #B0C926;
+    color: white;
+    border: none;
+    padding: 7px;
+    border-radius: 20px; 
+}
+.bottone9{
+    background-color: #45ABEA;
+    color: white;
+    border: none;
+    padding: 7px;
+    border-radius: 20px;
+    margin-bottom: 60px; 
+}
